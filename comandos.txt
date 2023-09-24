@@ -1,0 +1,10 @@
+git init			Inicializa repo
+git add .			Adiciona arquivos modificados
+git status			Indica quais arquivos foram modificados e adicionados
+git commit -m "msg"		salva as mudancas adicionadas em um novo commit
+git push 			Envia as mudanças pra repo
+git branch			Cria uma linha de código separada da main
+git checkout nome		Muda de branches
+git merge nome			Une as mudanças da branch atual e da "nome"
+git pull			Atualiza a branch atual
+
